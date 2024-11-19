@@ -1,0 +1,1 @@
+Java is a high-level, robust, object-oriented, and secure programming language developed by Sun Microsystems in 1995. Known as the father of Java, it was originally named Oak, but was changed to Java due to its registered company status.
