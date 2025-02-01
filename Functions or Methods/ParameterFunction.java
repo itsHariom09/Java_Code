@@ -1,6 +1,6 @@
 import java.util.*;
 public class ParameterFunction {
-    public static int add(int a,int b){
+    public static int add(int a,int b){//parameters or formal parameters
         return a+b;
     }
     public static void main(String[] args) {
@@ -9,6 +9,6 @@ public class ParameterFunction {
         int a=sc.nextInt();
         System.out.print("Enter second number: ");
         int b=sc.nextInt();
-        System.out.println("Sum of "+a+" and "+b+" is "+add(a,b));
+        System.out.println("Sum of "+a+" and "+b+" is "+add(a,b));//arguments or actual parameters
     }
 }
