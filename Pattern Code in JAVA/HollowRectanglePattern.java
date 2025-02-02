@@ -19,7 +19,7 @@ public class HollowRectanglePattern {
         }
     }
     public static void main(String[] args) {
-        int row=5,col=8;
+        int row=4,col=5;
         rect(row,col);
     }
 }
