@@ -17,6 +17,13 @@ class Stringss {
         for(int i=0;i<str2.length();i++){
             System.out.print(str2.charAt(i)+" ");
         }
+        System.out.println();
+        //User Input
+        Scanner sc=new Scanner(System.in);
+        System.out.print("Enter your name: ");
+        // String name1=sc.next(); //It will take only one word
+        String name=sc.nextLine(); //It will take whole line
+        System.out.println("Hello "+name);
 
     }
 }
